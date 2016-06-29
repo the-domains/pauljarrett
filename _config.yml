@@ -1,5 +1,34 @@
-title: Paul Jarrett
-purpose: []
+typography_spectrum: 0.4390681
+color:
+  saturation: 0
+  brandStrength: 0.6483185370452702
+  lightness: 1
+  brandColors:
+    - '#010101'
+    - '#878787'
+    - '#E0E0E0'
+    - '#BBBBBB'
+    - '#5F5F5F'
+  rhythmicContrast: 0.9874552
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3028674
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Paul Jarrett
+  email: pauljarrett@me.com
+  url: www.PaulJarrett.com
+name: Paul Jarrett
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.6483185370452702
-  lightness: 1
-  brandColors:
-    - '#010101'
-    - '#878787'
-    - '#E0E0E0'
-    - '#BBBBBB'
-    - '#5F5F5F'
-  rhythmicContrast: 0.9874552
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Paul Jarrett
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4390681
-layout_spectrum: 0.3028674
+title: 'Student, Husband, Father, Founder & Entrepreneur. Thriving...fuck surviving.'
+purpose: []
